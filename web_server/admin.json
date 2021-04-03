@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "anti-teft-bike-sih",
+  "private_key_id": "a642906126eec396e3674d2d9af7a6e21f764d31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCIm8r3MHB8tbVV\nPhc7j/NOV+AdKwIRzL87RuRrp3VimIs8AKP7tDHvnlwyAfgTa/DlD4QqdU2tdI2X\nkqvgROo4/23n+4lwyb6UzZQz6mS1xZTLaoz+6gVFfC27HtfwNdubw6vk9B0+ZbmZ\nA8lAaAyXhguoZrrvCkTMo3ocdvLWZfx2UF4fodx7YTE+k9b5HjkfLKy4akkPP0pi\nvhpk1y0B5hPcwA/1B97tY+ZxHhptZV7IQwnWdNNxNlMUzxkbjUReQDuendxkMDY6\n9n1HAIwcu3bedejbb2y+6cQ/2hBQZ1oIUv/oteHZB4vUa+jWGQPOwI001NjU0sXF\n0yGYTdqrAgMBAAECggEAEqMWjKS6I/lyVL/U0ZZw/jY06CXO8Xi6ei7QyPMeq6Xe\nEQCRXqyVx3gWYegs3RFz2vxD7rr0Lv7gtlYXRtCAF+iZKPYDKTUM4CYv2ulWdgoP\no7TUqY5py7IGVyn9EdN3M4f9co3vU2zzZjHDChtn5GAwRPhG9oezHSwMY8fCl4c9\nYtLInkb4ZnwRsaVAwQZoD1cCj8ANPvOnTT+4eKRCqQLTmJaBtlTRJo1CC129RTAa\nJAg3A1Tj9SSZHNfCTWzVJ8nIsWne5Bwde8rLnPG0lbyWBwCzEmqQi0pQL35umJA2\nHTlA6vwUtlD2DDIoX6HL/nD8G6n064OVtgU7+2aBqQKBgQC998uFqDRa/e5QY9yR\n4Y0bc48bB++47S1AXKu6UPXyrhe4o3w0AVlrj4Dhm+SzwA4OGz7HB9DzjHXFZrPs\nda/ncUHQRj1AmVpxE2onZCV700F8j1fv8S4Z2PQOIDensG/S/Y/7hjw0OEK+jeAI\nnC279uU3L+FoWAmXdx4kykyENwKBgQC4F9bV2/eM9WAXLX4x0I32xDy1mdeAyUGl\nq7yZ9iOAqzTBkl2Im7yqwmcNojyPn4ebsC9D4Sr7PH5n5tSBkMmeaxduFpfcIRp/\nuWRwdtidX6IDI7f0L/we/gskrYSDoAeZcKcuwOAh+kg92khJp+PnfTyVa8RhTIa4\nIBEY2JXLLQKBgQClrWhl4CYROafPmthyrlkHmQg1Ff3ftZKisG/hJdzq0yTDFmor\nXQXkxhosKW8Tyas4aFCe+tUko9rO19yRnK5WVrOEds3S+iwjtD//rNr4HG3fuZCD\nJkADsPBhJX4ElN9iD1y0jAUTsgGb+VZri/JjHVgZgnu/KhDrdarngTusjwKBgQCO\n8yQFyNs/f8Jv/QmDERlLxzIFKkLnZGAvj13SiAklfsxmi4tJ6vTj/DUdpx8zv4MD\n6Bmrsgs4L89QSzQ0sAN/mlUFTVH6w1HaYFGX6xFlkr8xhOjxGtnCDy8D+iFuPDPq\neEm5ylfAyqKSNQ/w8gfM17jVpmtFyrDKBUyBaJ1YuQKBgHpy0o8UKLPyQppko0J/\nMtuPuNe38xKDlqvBpTBBtR0zK/VxP1qQ0/lrzcTMxVE+fXnVlcdKZ1j+CB4DBMhB\neDmwvHFsOfmhjgmoKvT0GI8ehCeOcpXXQ8zTLdyPByHwc9PWOdKjXz9kChL+39bE\nio/MTK0X20ui3dB+rZYi8QON\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-jqoak@anti-teft-bike-sih.iam.gserviceaccount.com",
+  "client_id": "111969961542406092362",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jqoak%40anti-teft-bike-sih.iam.gserviceaccount.com"
+}

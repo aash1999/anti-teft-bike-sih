@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Automatic Pill Dispenser</title>
+    <link rel="stylesheet" href="index.css">
+  </head>
+  <body>
+    <h1>Automatic Pill Dispenser</h1>
+    <p>Vyshalini's Routine</p>
+    <div class="row">
+      <% var count =0 %>
+      <% for (var i in med){ %>
+
+  <div class="column">
+    <div class="card">
+        <h1> <%= med[count] %></h></h1>
+        <h3>count : <%= counts[count] %></h></h3>
+        <% count=count+1 %>
+        <p>For headache</p>
+
+        <button type="button" name="button">remind to refill</button>
+    </div>
+  </div>
+<% } %>
+
+
+</div>
+
+    </div>
+
+  </body>
+</html>
